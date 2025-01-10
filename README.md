@@ -1,0 +1,1 @@
+# Gerador_qr_cod
